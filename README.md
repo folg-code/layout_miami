@@ -18,4 +18,6 @@ Organizacja stylów przy pomocy SCSS
 Odwzorowanie projektu z Figmy
  
  [Projekt](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
+
+ 
  [Odwzorowanie](https://folg-code.github.io/layout_miami/#index.html)
